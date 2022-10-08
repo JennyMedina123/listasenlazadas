@@ -1,0 +1,10 @@
+.cache
+.breakpoints
+.replit
+.idea
+.upm
+out
+ejemplolistasenlazados.iml
+.replit
+replit.nix
+*.class
